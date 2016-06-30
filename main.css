@@ -1,13 +1,19 @@
+/*
 h1 {
     text-align: right;
 }
 h3 {
     text-align: right;
 }
+*/
 header {
     border-bottom: thick solid lightslategray;
 }
 
 .logo {
 
+}
+
+#main {
+    margin-top: 15px;
 }
