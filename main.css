@@ -11,9 +11,19 @@ header {
 }
 
 .logo {
-
+    padding-top: 15px;
 }
 
 #main {
     margin-top: 15px;
 }
+
+
+.featured-title {
+    color: #7d97ad;
+}
+
+.articleInfo {
+    color: #2d3c49;
+}
+
