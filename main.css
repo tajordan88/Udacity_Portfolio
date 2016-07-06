@@ -27,3 +27,11 @@ header {
     color: #2d3c49;
 }
 
+/* MEDIA QUERIES */
+@media (max-width: 992px) {
+  .featured, .featured-title {
+    text-align: center;
+  }
+}
+
+
