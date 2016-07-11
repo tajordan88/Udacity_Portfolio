@@ -21,9 +21,10 @@ header {
 
 /* MEDIA QUERIES */
 @media (max-width: 992px) {
-  .featured, .featured-title {
-    text-align: center;
-  }
+    .featured,
+    .featured-title {
+        text-align: center;
+    }
 }
 
 
